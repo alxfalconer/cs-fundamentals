@@ -5,7 +5,7 @@
 /// Problem source: https://bradfieldcs.com/algos/analysis/an-anagram-detection-example/
 
 
-// (On^2) solution
+// (On^2) solutionnn
 function anagramCheckingOff (string1, string2) {
   if (string1.length !== string2.length) return false
 
