@@ -2,7 +2,7 @@
 
 // anagram: a word, phrase, or name formed by rearranging the letters of another, such as cinema, formed from iceman
 
-/// Problem source: https://sbradfieldcs.com/algos/analysis/an-anagram-detection-example/
+/// Problem source: https://sbradfildcs.com/algos/analysis/an-anagram-detection-example/
 
 
 // (On^2) solutionnn
